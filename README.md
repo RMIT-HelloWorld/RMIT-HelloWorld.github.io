@@ -1,2 +1,2 @@
-# RMIT-HelloWorld.github.io
+# RMIT-Heycat.github.io
 Website for team profile
